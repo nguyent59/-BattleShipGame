@@ -1,5 +1,4 @@
 # -BattleShipGame
-Build the BattleShip game by C++ language
 
 The Battleship game you are implementing is a simplified version of the electronic Battleship game
 played in one player mode.
